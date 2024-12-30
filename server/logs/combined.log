@@ -1,0 +1,58 @@
+24-Dec-2024 12:22:59:2259 [error]: Error occurred Product not found
+Error: Product not found
+    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+24-Dec-2024 12:22:59:2259 [error]: Error: Product not found
+24-Dec-2024 12:22:59:2259 [error]: Error occurred Product not found
+Error: Product not found
+    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+24-Dec-2024 12:22:59:2259 [error]: Error: Product not found
+24-Dec-2024 12:32:13:3213 [error]: Error occurred ad is not defined
+ReferenceError: ad is not defined
+    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+24-Dec-2024 12:32:13:3213 [error]: ReferenceError: ad is not defined
+24-Dec-2024 12:32:13:3213 [error]: Error occurred ad is not defined
+ReferenceError: ad is not defined
+    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+24-Dec-2024 12:32:13:3213 [error]: ReferenceError: ad is not defined
+24-Dec-2024 12:33:13:3313 [[31m[31merror[31m[39m]: [31m[31mError occurred ad is not defined[31m[39m
+ReferenceError: ad is not defined
+    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+24-Dec-2024 12:33:13:3313 [[31m[31merror[31m[39m]: [31m[31mReferenceError: ad is not defined[31m[39m
+[31m[31m    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:3)[31m[39m
+[31m[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[31m[39m
+24-Dec-2024 12:33:13:3313 [[31m[31merror[31m[39m]: [31m[31mError occurred ad is not defined[31m[39m
+ReferenceError: ad is not defined
+    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+24-Dec-2024 12:33:13:3313 [[31m[31merror[31m[39m]: [31m[31mReferenceError: ad is not defined[31m[39m
+[31m[31m    at getProduct (file:///C:/laragon/www/Login/server/controller/productController.js:14:3)[31m[39m
+[31m[31m    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)[31m[39m
+24-Dec-2024 12:43:41:4341 [error]: Error occurred Cannot populate path `reviewss` because it is not in your schema. Set the `strictPopulate` option to false to override.
+StrictPopulateError: Cannot populate path `reviewss` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (C:\laragon\www\Login\server\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4394:21)
+    at _populate (C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4354:5)
+    at C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4326:5
+    at new Promise (<anonymous>)
+    at Function.populate (C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4325:10)
+    at C:\laragon\www\Login\server\node_modules\mongoose\lib\query.js:2521:11
+    at C:\laragon\www\Login\server\node_modules\mongoose\lib\query.js:3164:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+24-Dec-2024 12:43:41:4341 [error]: StrictPopulateError: Cannot populate path `reviewss` because it is not in your schema. Set the `strictPopulate` option to false to override.
+24-Dec-2024 12:43:41:4341 [error]: Error occurred Cannot populate path `reviewss` because it is not in your schema. Set the `strictPopulate` option to false to override.
+StrictPopulateError: Cannot populate path `reviewss` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (C:\laragon\www\Login\server\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4394:21)
+    at _populate (C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4354:5)
+    at C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4326:5
+    at new Promise (<anonymous>)
+    at Function.populate (C:\laragon\www\Login\server\node_modules\mongoose\lib\model.js:4325:10)
+    at C:\laragon\www\Login\server\node_modules\mongoose\lib\query.js:2521:11
+    at C:\laragon\www\Login\server\node_modules\mongoose\lib\query.js:3164:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+24-Dec-2024 12:43:41:4341 [error]: StrictPopulateError: Cannot populate path `reviewss` because it is not in your schema. Set the `strictPopulate` option to false to override.
